@@ -46,3 +46,5 @@ resource "google_compute_subnetwork" "subnetwork" {
     var.secondary_ranges[each.value.subnet_name][i]
   ]
 }
+
+#final

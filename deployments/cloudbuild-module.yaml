@@ -26,5 +26,5 @@ steps:
       fi
 substitutions:
   _MODULE_DIR_PATH:
-  _TERRAFORM_APPLY: 'N'
+  _TERRAFORM_APPLY: 'Y'
   _BUCKET:
